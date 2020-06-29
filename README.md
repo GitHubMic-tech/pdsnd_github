@@ -1,15 +1,28 @@
 ### Date created
-Include the date you created this project and README file.
+Date creation:
+
+Today is Monday 20th June 2020, date of creation of this README file and the project
 
 ### Project Title
-Replace the Project Title
+Project Title:
+
+Posting your work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+The students have to fork a repo, modify the documentation and refactor the code, post them on the remote repo, and merge them.
 
 ### Files used
-Include the files used
+Files used for this project:
+
+chicago.csv
+new-york-city.csv
+washington.csv
+Bike-share-question-1
+README.md
+.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+Credits:
+
+https://github.com/nanafosu/pdsnd_github
