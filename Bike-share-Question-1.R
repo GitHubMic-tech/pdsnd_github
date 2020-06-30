@@ -16,8 +16,8 @@ count <- table(chi$Start.Station)
 
 
 x=tail(sort(count),10)
-barplot(x, main="Top 10 starting stations in Chicago, IL",
-        ylab="Number of uses, in figures", las=2, col = 'blue')
+barplot(x, main="Top 10 starting stations (Chicago, IL)",
+        ylab="Number of uses", las=2, col = 'green')
 par(mar=c(10,2,1,1))
 
 names(x)
